@@ -1,0 +1,1673 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:q="http://www.gallusrunning.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/1http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="HotelRunning - www.hotelrunning.com" xmlns="http://www.topografix.com/GPX/1/1">
+<rte>
+<name>Tokyo marathon</name> 
+<rtept lat="35.6888024269" lon="139.692469837" > 
+<ele>37.8161735535</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6899700856" lon="139.692137243" > 
+<ele>40.906463623</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6922269296" lon="139.691568615" > 
+<ele>39.0528259277</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6924360548" lon="139.692941906" > 
+<ele>39.1594467163</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6924369677" lon="139.694402218" > 
+<ele>39.1860961914</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6921755611" lon="139.695668221" > 
+<ele>38.2478294373</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6919773371" lon="139.696603063" > 
+<ele>38.7115478516</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6926047129" lon="139.696723217" > 
+<ele>37.2405738831</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6931863284" lon="139.696998596" > 
+<ele>36.5737228394</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6937200356" lon="139.69798922" > 
+<ele>34.4840927124</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6936938954" lon="139.698836798" > 
+<ele>33.780921936</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6939901504" lon="139.700156445" > 
+<ele>33.198802948</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6938071695" lon="139.700961108" > 
+<ele>33.0919723511</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6935893345" lon="139.702152008" > 
+<ele>33.2778129578</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6933279317" lon="139.702892298" > 
+<ele>33.3638496399</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6927964101" lon="139.704887862" > 
+<ele>34.5699882507</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.692639567" lon="139.705510134" > 
+<ele>34.8465843201</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6922213172" lon="139.707012171" > 
+<ele>34.3529090881</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6920008976" lon="139.707824386" > 
+<ele>33.1480712891</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6918091985" lon="139.708961642" > 
+<ele>32.2561302185</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6916784943" lon="139.710184729" > 
+<ele>35.0202102661</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6914432262" lon="139.71193353" > 
+<ele>34.3008995056</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6913038077" lon="139.713371194" > 
+<ele>33.2817497253</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6912428121" lon="139.713800347" > 
+<ele>32.5008430481</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6914956877" lon="139.714708029" > 
+<ele>33.2602005005</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6914172649" lon="139.715974032" > 
+<ele>27.5757446289</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.691208137" lon="139.716800152" > 
+<ele>24.1389141083</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6914259785" lon="139.717722832" > 
+<ele>23.0792808533</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6915392559" lon="139.718280731" > 
+<ele>22.2212200165</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6919226549" lon="139.719739853" > 
+<ele>20.6977443695</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6923321927" lon="139.721284805" > 
+<ele>20.4740695953</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6924280417" lon="139.72188562" > 
+<ele>20.3809585571</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6924628959" lon="139.723044334" > 
+<ele>19.7389411926</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6923496198" lon="139.724235235" > 
+<ele>19.2852401733</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6921927758" lon="139.725769459" > 
+<ele>19.7246932983</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6917658101" lon="139.726799427" > 
+<ele>18.5679607391</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6913736966" lon="139.727550446" > 
+<ele>17.5745830536</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6911907097" lon="139.729041754" > 
+<ele>16.7245349884</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6910687182" lon="139.730297028" > 
+<ele>15.9570789337</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6911210003" lon="139.731037317" > 
+<ele>15.4162502289</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6914085512" lon="139.732507168" > 
+<ele>14.485244751</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6917570964" lon="139.733934103" > 
+<ele>13.9033231735</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6920707858" lon="139.734878241" > 
+<ele>13.7945318222</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6926320245" lon="139.735743941" > 
+<ele>13.1135959625</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6932647494" lon="139.736706018" > 
+<ele>12.6472187042</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6943659954" lon="139.737707318" > 
+<ele>12.1729316711</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6950804849" lon="139.738318861" > 
+<ele>11.8367271423</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6967621242" lon="139.739574135" > 
+<ele>10.3760938644</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6980690732" lon="139.740668476" > 
+<ele>8.62159156799</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6994021391" lon="139.741719902" > 
+<ele>6.98578357697</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7001078709" lon="139.742363632" > 
+<ele>6.45498514175</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7022250287" lon="139.743919314" > 
+<ele>4.51674747467</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.702521252" lon="139.74459523" > 
+<ele>5.22149085999</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7024515525" lon="139.744895638" > 
+<ele>5.46461963654</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7023818529" lon="139.744992197" > 
+<ele>5.53031492233</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7013973399" lon="139.746515692" > 
+<ele>4.6673746109</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7007351827" lon="139.747695864" > 
+<ele>4.60700702667</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6998750977" lon="139.748401877" > 
+<ele>5.30925559998</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6993958964" lon="139.748863217" > 
+<ele>5.14602041245</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6984984753" lon="139.74976444" > 
+<ele>4.66679906845</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6982632273" lon="139.749936101" > 
+<ele>4.56339979172</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6981673853" lon="139.750215051" > 
+<ele>4.5670747757</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6980366916" lon="139.751609799" > 
+<ele>4.06153678894</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6978798587" lon="139.75289726" > 
+<ele>3.80598139763</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6976446089" lon="139.754066703" > 
+<ele>3.75871133804</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6975487662" lon="139.754356381" > 
+<ele>3.54904699326</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6967994465" lon="139.754785535" > 
+<ele>3.53826475143</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6960849724" lon="139.755193231" > 
+<ele>3.28241372108</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6959717015" lon="139.755482909" > 
+<ele>3.29079270363</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6960326935" lon="139.759280917" > 
+<ele>4.55532407761</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6960849724" lon="139.760139224" > 
+<ele>5.04556035995</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6960326935" lon="139.760579106" > 
+<ele>5.55944252014</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6956057483" lon="139.761244294" > 
+<ele>5.95879602432</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6950568153" lon="139.761995313" > 
+<ele>6.05157470703</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6945601585" lon="139.762703416" > 
+<ele>6.19006156921</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6944381721" lon="139.762960908" > 
+<ele>6.19405126572</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6943858922" lon="139.763765571" > 
+<ele>6.07730674744</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6944730254" lon="139.764527318" > 
+<ele>5.86062479019</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.694603725" lon="139.765117404" > 
+<ele>5.47304773331</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6957538724" lon="139.768175122" > 
+<ele>4.86744976044</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6959194225" lon="139.768754479" > 
+<ele>4.88970994949</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6958410041" lon="139.769634244" > 
+<ele>5.2029633522</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6957103065" lon="139.770267245" > 
+<ele>5.21122169495</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6952049405" lon="139.770267245" > 
+<ele>5.21361303329</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6939570094" lon="139.770780804" > 
+<ele>4.85967445374</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6920226175" lon="139.771585467" > 
+<ele>4.74321508408</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6905500085" lon="139.772154095" > 
+<ele>4.93784999847</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.689399786" lon="139.772636893" > 
+<ele>4.96580314636</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6884499686" lon="139.77303386" > 
+<ele>5.11290407181</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6853913055" lon="139.774353507" > 
+<ele>4.73675012589</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.684790016" lon="139.774503711" > 
+<ele>4.54222106934</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6842022498" lon="139.774557352" > 
+<ele>2.12389063835</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.683718141" lon="139.774353507" > 
+<ele>4.48279953003</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6825329616" lon="139.773838523" > 
+<ele>4.21853113174</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6820972294" lon="139.774739745" > 
+<ele>4.06979942322</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6816004919" lon="139.776037934" > 
+<ele>3.59540510178</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6809381703" lon="139.77773309" > 
+<ele>2.52391028404</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6803455622" lon="139.779160025" > 
+<ele>2.62526488304</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6799882522" lon="139.780050519" > 
+<ele>2.75830459595</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6803455622" lon="139.78031874" > 
+<ele>2.96595430374</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.681112466" lon="139.78078008" > 
+<ele>2.52450561523</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6824196714" lon="139.781616929" > 
+<ele>2.63337063789</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6827856851" lon="139.7821641" > 
+<ele>2.13566994667</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6831865553" lon="139.783022406" > 
+<ele>1.88716804981</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6838401438" lon="139.784224036" > 
+<ele>1.96657037735</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6843368674" lon="139.785318377" > 
+<ele>1.56567585468</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6847028723" lon="139.786101582" > 
+<ele>3.5350959301</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6855917343" lon="139.787850383" > 
+<ele>2.51178359985</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6857224485" lon="139.788011315" > 
+<ele>2.46546840668</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6865502999" lon="139.787346127" > 
+<ele>2.85581684113</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6873781428" lon="139.786691668" > 
+<ele>3.25439047813</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.688197263" lon="139.785994294" > 
+<ele>4.85154771805</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6893126473" lon="139.785286191" > 
+<ele>4.97619724274</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6899361432" lon="139.784942865" > 
+<ele>4.73351573944</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.690698142" lon="139.784363511" > 
+<ele>4.4105091095</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6909334122" lon="139.784610274" > 
+<ele>5.75525522232</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6929462519" lon="139.78492141" > 
+<ele>5.18205070496</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6940877099" lon="139.785114529" > 
+<ele>4.92504882812</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6949503275" lon="139.785221818" > 
+<ele>4.02902078629</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6957828958" lon="139.785286188" > 
+<ele>5</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.696809794" lon="139.785929921" > 
+<ele>5</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6985785255" lon="139.787034991" > 
+<ele>4.51233816147</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6994585202" lon="139.787582162" > 
+<ele>5</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7005040457" lon="139.788273196" > 
+<ele>3.59921789169</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7013230312" lon="139.78888474" > 
+<ele>3.95150709152</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7023685323" lon="139.789839606" > 
+<ele>3.67894244194</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7032746222" lon="139.790826659" > 
+<ele>4.7377166748</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7040151688" lon="139.791824441" > 
+<ele>3.92378997803</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7050693468" lon="139.793101172" > 
+<ele>5.98872804642</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.705844725" lon="139.793959479" > 
+<ele>6</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7067326094" lon="139.794698855" > 
+<ele>5.9998755455</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7080132595" lon="139.795557162" > 
+<ele>6</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7089018618" lon="139.796050688" > 
+<ele>8.52223014832</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7108184211" lon="139.796340367" > 
+<ele>9.44760513306</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7108358442" lon="139.79668369" > 
+<ele>10.287279129</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7107661519" lon="139.797016284" > 
+<ele>8.91177177429</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7106616134" lon="139.797456166" > 
+<ele>6.41624355316</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7104873823" lon="139.797488352" > 
+<ele>6.41433858871</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7096075094" lon="139.796984097" > 
+<ele>5.71556472778</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7092764656" lon="139.796737334" > 
+<ele>5.52270698547</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7087014915" lon="139.796168706" > 
+<ele>5.90261030197</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7083878675" lon="139.7959434" > 
+<ele>8.95529747009</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7077954633" lon="139.795600077" > 
+<ele>5.96422100067</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7065932177" lon="139.794752499" > 
+<ele>6</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7057675656" lon="139.794223309" > 
+<ele>6</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7050387781" lon="139.793337933" > 
+<ele>5.96714878082</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7046031689" lon="139.792801491" > 
+<ele>6</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7041588451" lon="139.792243268" > 
+<ele>5.99960851669</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7034705738" lon="139.791374233" > 
+<ele>3.93857049942</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.702747447" lon="139.790537384" > 
+<ele>4.8603682518</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7021288634" lon="139.789807823" > 
+<ele>4.49247455597</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7018500636" lon="139.789507415" > 
+<ele>6.30837011337</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7016583882" lon="139.789400127" > 
+<ele>4.17687606812</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7015974005" lon="139.790118959" > 
+<ele>3.21685481071</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7015625503" lon="139.791159656" > 
+<ele>4.04882907867</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7014841374" lon="139.791899946" > 
+<ele>5.08251571655</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.701336024" lon="139.792650964" > 
+<ele>7.44665241241</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7009875206" lon="139.793528198" > 
+<ele>1</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7004996133" lon="139.794729827" > 
+<ele>5.18953990936</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7003340727" lon="139.795448659" > 
+<ele>3.28340435028</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7002817966" lon="139.796188949" > 
+<ele>2.42957139015</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7002787657" lon="139.797205925" > 
+<ele>1.24479866028</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6987483501" lon="139.79737985" > 
+<ele>2.40087175369</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.697127744" lon="139.797454952" > 
+<ele>1.94372189045</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6963000023" lon="139.797540783" > 
+<ele>4.59330034256</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6950714436" lon="139.797669529" > 
+<ele>4.30909490585</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6932677806" lon="139.797830461" > 
+<ele>5.0189332962</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6925358477" lon="139.797927021" > 
+<ele>4.27039337158</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6909761112" lon="139.798034309" > 
+<ele>3.69745326042</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6900263126" lon="139.798098682" > 
+<ele>2.58611321449</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6891420137" lon="139.798163441" > 
+<ele>3.47893738747</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6871726486" lon="139.798367289" > 
+<ele>2.87668585777</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6864668024" lon="139.798410204" > 
+<ele>2.70052289963</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6851770919" lon="139.798528222" > 
+<ele>4.53404045105</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.684262082" lon="139.798603324" > 
+<ele>5.22077560425</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6828067588" lon="139.79873207" > 
+<ele>4.47146272659</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6812032583" lon="139.798935917" > 
+<ele>3.38859462738</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6805496483" lon="139.799032477" > 
+<ele>3.33646941185</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6795561508" lon="139.799161223" > 
+<ele>2.57437586784</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6790855424" lon="139.79873207" > 
+<ele>2.79362249374</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.678205323" lon="139.798066882" > 
+<ele>5.22070789337</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6773425242" lon="139.79734805" > 
+<ele>3.51130056381</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6769067637" lon="139.797026185" > 
+<ele>3.12214827538</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6763577021" lon="139.796575574" > 
+<ele>2.61816239357</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6761311042" lon="139.796403912" > 
+<ele>2.26332211494</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6757824907" lon="139.79632881" > 
+<ele>2.65110087395</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6750155356" lon="139.796221522" > 
+<ele>1.62594997883</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.674518754" lon="139.796103505" > 
+<ele>3.09894108772</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6742572887" lon="139.796017674" > 
+<ele>4.53124952316</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6738215114" lon="139.795813826" > 
+<ele>3.96260666847</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6724967336" lon="139.795009163" > 
+<ele>0.7100456357</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6721655358" lon="139.795556334" > 
+<ele>0.763306438923</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6717907576" lon="139.796468285" > 
+<ele>0.565068364143</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6712678083" lon="139.797766474" > 
+<ele>2.0202600956</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6710075014" lon="139.798278809" > 
+<ele>0.890866279602</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6704659461" lon="139.799450902" > 
+<ele>1.43100452423</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6704397983" lon="139.799397257" > 
+<ele>1.16380059719</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6706315488" lon="139.79873207" > 
+<ele>0.646302640438</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6709017418" lon="139.798163441" > 
+<ele>0.531844973564</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6715031359" lon="139.796843794" > 
+<ele>0.504717826843</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6718866312" lon="139.79596403" > 
+<ele>0.680567979813</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6724095764" lon="139.794837502" > 
+<ele>0.955743432045</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6735426126" lon="139.79550269" > 
+<ele>2.2092397213</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6743357284" lon="139.795888928" > 
+<ele>4.84664821625</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6750329665" lon="139.796017674" > 
+<ele>1.72764122486</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6757127678" lon="139.796124962" > 
+<ele>1.45976376534</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6761746807" lon="139.796277928" > 
+<ele>2.07893896103</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6768730717" lon="139.7967875" > 
+<ele>3.43729114532</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6780833116" lon="139.797747778" > 
+<ele>5.13505315781</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6790158224" lon="139.798530983" > 
+<ele>3.40163207054</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6795735807" lon="139.798992323" > 
+<ele>2.76069688797</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6803492068" lon="139.798970865" > 
+<ele>3.5892469883</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6818742923" lon="139.798777746" > 
+<ele>2.77663421631</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6834342068" lon="139.798584627" > 
+<ele>5.21084976196</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6842446531" lon="139.798477339" > 
+<ele>5.44347715378</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6857870927" lon="139.798370051" > 
+<ele>2.65950155258</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6869635097" lon="139.798262762" > 
+<ele>2.04434585571</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6888544546" lon="139.798123287" > 
+<ele>3.06794118881</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6907192136" lon="139.797962355" > 
+<ele>2.546002388</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6917299993" lon="139.797887253" > 
+<ele>3.36325120926</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6931328789" lon="139.797769236" > 
+<ele>4.32152223587</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.69395194" lon="139.797683405" > 
+<ele>4.23595380783</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6955900371" lon="139.797501015" > 
+<ele>4.95250225067</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6969579967" lon="139.797404455" > 
+<ele>1.23558545113</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6982312595" lon="139.797216654" > 
+<ele>1.27147424221</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6992320686" lon="139.797189879" > 
+<ele>1.66496956348</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7001742135" lon="139.797087908" > 
+<ele>1.18824338913</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7001904703" lon="139.79643886" > 
+<ele>1.75476861</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7002340337" lon="139.795730757" > 
+<ele>3.03529310226</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7002601717" lon="139.795183586" > 
+<ele>3.90026521683</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7003734365" lon="139.794861721" > 
+<ele>5.17795133591</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.700845088" lon="139.793622494" > 
+<ele>1</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7012708365" lon="139.792555021" > 
+<ele>7.01693820953</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7013753873" lon="139.792072224" > 
+<ele>5.44102811813</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7015409258" lon="139.789314913" > 
+<ele>3.61005401611</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.7010704471" lon="139.788939404" > 
+<ele>5.21164751053</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6998768128" lon="139.788113283" > 
+<ele>5</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6993714732" lon="139.787737774" > 
+<ele>5</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6990142484" lon="139.78750174" > 
+<ele>5</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6975940463" lon="139.78657906" > 
+<ele>4.97687721252</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6967663095" lon="139.786053347" > 
+<ele>4.61949634552</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6962260977" lon="139.785688566" > 
+<ele>4.71010541916</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6956597426" lon="139.785431074" > 
+<ele>5</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6949198466" lon="139.78533402" > 
+<ele>4.06440973282</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6942924889" lon="139.785291105" > 
+<ele>5.11230707169</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6929680511" lon="139.785076528" > 
+<ele>5.2718911171</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6912166225" lon="139.784808307" > 
+<ele>5.24842739105</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6906066632" lon="139.784743934" > 
+<ele>5.47574567795</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6904236745" lon="139.784765392" > 
+<ele>4.46651935577</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6898921335" lon="139.785089121" > 
+<ele>4.58361911774</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6892647364" lon="139.78546463" > 
+<ele>3.32303118706</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6879663571" lon="139.786451683" > 
+<ele>2.62025499344</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6873476589" lon="139.786977396" > 
+<ele>2.10844898224</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6865711152" lon="139.787578211" > 
+<ele>2.96550250053</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6857345497" lon="139.788264856" > 
+<ele>2.56104326248</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6854658331" lon="139.788043499" > 
+<ele>2.33650779724</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6849815709" lon="139.787084685" > 
+<ele>2.80488324165</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6845981385" lon="139.786290751" > 
+<ele>2.08748149872</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.683996843" lon="139.785014019" > 
+<ele>1.65538346767</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6835524044" lon="139.784026966" > 
+<ele>2.04490160942</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.683247396" lon="139.783447609" > 
+<ele>1.9836294651</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.682785524" lon="139.782557116" > 
+<ele>1.92030596733</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6827070926" lon="139.782299624" > 
+<ele>2.10626864433</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6823323639" lon="139.781784639" > 
+<ele>2.43183660507</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6819924922" lon="139.781559334" > 
+<ele>2.78355097771</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6808247168" lon="139.780840502" > 
+<ele>5.1539888382</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6799532314" lon="139.780336247" > 
+<ele>2.68201756477</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6798922271" lon="139.780325518" > 
+<ele>2.82311153412</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6813650329" lon="139.776473866" > 
+<ele>3.50133347511</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6819402041" lon="139.775014744" > 
+<ele>3.94678115845</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6823323639" lon="139.774016962" > 
+<ele>4.0441198349</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.682402081" lon="139.773791657" > 
+<ele>4.08747386932</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6808247168" lon="139.772718773" > 
+<ele>3.90785956383</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6802270338" lon="139.772343264" > 
+<ele>3.94874429703</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6795647008" lon="139.771935568" > 
+<ele>3.8192281723</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6788849323" lon="139.771484957" > 
+<ele>3.70152115822</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.677882699" lon="139.770894871" > 
+<ele>4.06134271622</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6768978836" lon="139.770272598" > 
+<ele>4.30842781067</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6763834378" lon="139.769902303" > 
+<ele>4.3736538887</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6752417266" lon="139.769194199" > 
+<ele>4.06205797195</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6749018246" lon="139.768990352" > 
+<ele>3.73667931557</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6743091717" lon="139.768400266" > 
+<ele>3.35368609428</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6731064212" lon="139.767166449" > 
+<ele>3.66157007217</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6723481562" lon="139.766340329" > 
+<ele>3.95168352127</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6712412506" lon="139.765160157" > 
+<ele>4.24157047272</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6713632724" lon="139.76476319" > 
+<ele>4.1843829155</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6724091663" lon="139.763389899" > 
+<ele>4.13748311996</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.672958255" lon="139.762606694" > 
+<ele>3.94103074074</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6734201839" lon="139.761887862" > 
+<ele>3.05762434006</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6740477057" lon="139.760847165" > 
+<ele>2.59242153168</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6747362309" lon="139.759838654" > 
+<ele>2.40158033371</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6748582474" lon="139.759516789" > 
+<ele>2.13781023026</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6740389902" lon="139.758701398" > 
+<ele>2.00322461128</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.67350734" lon="139.758250787" > 
+<ele>1.9362578392</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6731238525" lon="139.757875277" > 
+<ele>2.05533504486</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6726096277" lon="139.757521226" > 
+<ele>2.54086136818</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.672043105" lon="139.757177903" > 
+<ele>2.72097802162</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6710582175" lon="139.756512715" > 
+<ele>2.6524939537</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6703522287" lon="139.756040646" > 
+<ele>2.64294552803</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6697682579" lon="139.755708053" > 
+<ele>2.81196260452</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6692540115" lon="139.755439832" > 
+<ele>3.15174341202</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6683126705" lon="139.754935576" > 
+<ele>3.79773664474</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6678419958" lon="139.754688813" > 
+<ele>3.69556975365</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6669093544" lon="139.75425966" > 
+<ele>3.51060199738</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6660812992" lon="139.753927066" > 
+<ele>3.24626588821</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6652619519" lon="139.753583743" > 
+<ele>3.37069606781</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6639718987" lon="139.752940013" > 
+<ele>3.66623592377</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6630130619" lon="139.752500131" > 
+<ele>3.71254110336</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6622198336" lon="139.752124621" > 
+<ele>3.50031423569</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6610692028" lon="139.751598908" > 
+<ele>3.07505893707</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6599272725" lon="139.751094653" > 
+<ele>3.37423110008</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6593693769" lon="139.750815703" > 
+<ele>3.46366739273</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6588463463" lon="139.750601127" > 
+<ele>3.48542904854</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6584889401" lon="139.75056894" > 
+<ele>3.41953468323</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6578525787" lon="139.750429465" > 
+<ele>3.17743492126</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6572510817" lon="139.750311448" > 
+<ele>3.08789992332</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6566495802" lon="139.750257804" > 
+<ele>3.00713443756</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6558388537" lon="139.750096871" > 
+<ele>3.01515650749</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6550542718" lon="139.750053956" > 
+<ele>3.11799168587</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6540517393" lon="139.749893023" > 
+<ele>3.34813904762</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6533107289" lon="139.749785735" > 
+<ele>4.24814414978</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.652691762" lon="139.749689175" > 
+<ele>3.86486816406</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6519594569" lon="139.749614074" > 
+<ele>3.39169335365</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6508784229" lon="139.749431683" > 
+<ele>3.47831940651</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6496230102" lon="139.749227836" > 
+<ele>3.34333229065</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6487527638" lon="139.749119282" > 
+<ele>3.49270582199</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6478880671" lon="139.748886522" > 
+<ele>3.47707486153</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.647417272" lon="139.748360809" > 
+<ele>3.6151072979</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6470772516" lon="139.747727808" > 
+<ele>3.42018151283</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.646405925" lon="139.746408161" > 
+<ele>3.69312238693</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.645847935" lon="139.745464023" > 
+<ele>3.83626675606</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6453422532" lon="139.744648632" > 
+<ele>4.47303676605</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6449847865" lon="139.744133648" > 
+<ele>4.96347236633</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.644487818" lon="139.743586477" > 
+<ele>4.41192293167</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.64396469" lon="139.743050035" > 
+<ele>4.25742912292</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6433369317" lon="139.742631611" > 
+<ele>4.51393413544</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6427004496" lon="139.742256101" > 
+<ele>4.78700017929</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.642255781" lon="139.741998609" > 
+<ele>4.82266616821</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6416105712" lon="139.741644558" > 
+<ele>4.63719034195</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.641069986" lon="139.741365608" > 
+<ele>4.41133069992</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6404770819" lon="139.741140302" > 
+<ele>4.27752637863</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6402242244" lon="139.740990099" > 
+<ele>4.11377191544</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6391081541" lon="139.740324911" > 
+<ele>3.7474937439</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6388814505" lon="139.740228351" > 
+<ele>3.73832416534</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6385065161" lon="139.740013775" > 
+<ele>3.84316849709</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6372509089" lon="139.739402231" > 
+<ele>3.88709998131</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6367451727" lon="139.739166196" > 
+<ele>3.58439946175</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6352017855" lon="139.738586839" > 
+<ele>3.60483765602</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6345826783" lon="139.738415178" > 
+<ele>3.71828913689</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6337891677" lon="139.738168415" > 
+<ele>3.94226813316</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6333008496" lon="139.738071855" > 
+<ele>4.07883358002</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6322893239" lon="139.737857278" > 
+<ele>4.7315454483</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6323329244" lon="139.737696346" > 
+<ele>4.90947723389</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6330741294" lon="139.737803634" > 
+<ele>4.42973566055</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6337804478" lon="139.737943109" > 
+<ele>3.99337053299</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6343908413" lon="139.738114771" > 
+<ele>3.87041974068</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6357249709" lon="139.738629755" > 
+<ele>3.59278297424</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6365969391" lon="139.738962349" > 
+<ele>3.56870174408</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6382013356" lon="139.739638265" > 
+<ele>3.97019982338</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6389250474" lon="139.739992317" > 
+<ele>3.79691243172</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6398492963" lon="139.740560945" > 
+<ele>4.02044582367</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6409304796" lon="139.741086658" > 
+<ele>4.59314918518</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6417064811" lon="139.741419252" > 
+<ele>4.76993083954</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6432584616" lon="139.742341932" > 
+<ele>4.65182971954</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6439472523" lon="139.742814001" > 
+<ele>4.46782064438</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6446185995" lon="139.743414816" > 
+<ele>4.46755695343</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6451068485" lon="139.743897613" > 
+<ele>4.84237623215</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6458304978" lon="139.745077785" > 
+<ele>4.0547876358</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6463972065" lon="139.746086296" > 
+<ele>3.60192871094</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6470510961" lon="139.74734157" > 
+<ele>3.51053118706</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6476613883" lon="139.748575386" > 
+<ele>3.48130106926</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.649422491" lon="139.74899381" > 
+<ele>3.11400103569</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6507214974" lon="139.749208387" > 
+<ele>3.3229265213</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6519158671" lon="139.749422964" > 
+<ele>3.29665470123</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6540517393" lon="139.749766287" > 
+<ele>3.4314467907</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6554901516" lon="139.749970134" > 
+<ele>3.08997559547</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6565449708" lon="139.750045236" > 
+<ele>2.91375756264</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6572946686" lon="139.750152525" > 
+<ele>3.0882525444</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6578525787" lon="139.750249084" > 
+<ele>3.38029074669</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.658523809" lon="139.750410017" > 
+<ele>3.34544372559</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6593257912" lon="139.75056022" > 
+<ele>3.45177078247</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6598924041" lon="139.750806984" > 
+<ele>3.41730117798</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6603282575" lon="139.75102156" > 
+<ele>3.20076441765</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6607292405" lon="139.751246866" > 
+<ele>3.15878748894</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6616270865" lon="139.75166529" > 
+<ele>3.27878904343</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6629346111" lon="139.752233919" > 
+<ele>3.6312379837</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6638324322" lon="139.752673801" > 
+<ele>3.66165614128</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6651747868" lon="139.75332826" > 
+<ele>3.55066347122</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6658110898" lon="139.753617939" > 
+<ele>3.38217139244</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6669442197" lon="139.754111465" > 
+<ele>3.54086089134</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6678332795" lon="139.75452989" > 
+<ele>3.62923741341</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6691842829" lon="139.755087789" > 
+<ele>3.66839289665</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.669890282" lon="139.755474027" > 
+<ele>2.9680416584</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6703260808" lon="139.755763706" > 
+<ele>2.84472584724</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6717119052" lon="139.756632742" > 
+<ele>2.77705335617</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6731412838" lon="139.757555421" > 
+<ele>2.250623703</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.673594496" lon="139.757930931" > 
+<ele>1.96153366566</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6739954124" lon="139.758360084" > 
+<ele>1.89275944233</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6747623773" lon="139.759186205" > 
+<ele>2.10118484497</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6749541173" lon="139.759486612" > 
+<ele>2.25553965569</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6745706368" lon="139.760194715" > 
+<ele>2.49232339859</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6741348611" lon="139.760956463" > 
+<ele>2.43326234818</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6744834818" lon="139.761053022" > 
+<ele>3.51790475845</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6749454019" lon="139.761203226" > 
+<ele>4.08848619461</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6754160347" lon="139.761364158" > 
+<ele>3.90620279312</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6760348255" lon="139.761546549" > 
+<ele>4.09802246094</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6767146182" lon="139.761761125" > 
+<ele>4.02499818802</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6772723926" lon="139.761943515" > 
+<ele>4.22400665283</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.677647145" lon="139.762093719" > 
+<ele>3.81924200058</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6781961978" lon="139.762297567" > 
+<ele>3.61670351028</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6794860211" lon="139.762597974" > 
+<ele>3.37095451355</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6805230936" lon="139.762984213" > 
+<ele>3.3783955574</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6814817201" lon="139.763424095" > 
+<ele>3.16705799103</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.681821594" lon="139.763177332" > 
+<ele>3.33210539818</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6819697438" lon="139.762984213" > 
+<ele>3.521879673</ele>
+<sym>Ball Green</sym>
+</rtept>
+<rtept lat="35.6822224691" lon="139.761932787" > 
+<ele>2.86554217339</ele>
+<sym>Ball Green</sym>
+</rtept>
+</rte>
+<extensions>
+<routedesc>Default route description</routedesc>
+</extensions>
+</gpx>
