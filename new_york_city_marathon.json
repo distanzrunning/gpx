@@ -3512,7 +3512,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Mile 3 - Fluid + Medical",
+                "name": "Fluid / Medical",
                 "desc": "",
                 "type": "Distance Marker",
                 "sym": "Distance Marker"
@@ -3528,7 +3528,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Medical 5",
+                "name": "Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3544,7 +3544,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fluid / Medical 6",
+                "name": "Fluid / Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3560,7 +3560,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Medical 7",
+                "name": "Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3576,7 +3576,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Medical 8",
+                "name": "Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3592,7 +3592,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Medical 9",
+                "name": "Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3608,7 +3608,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Medical 10",
+                "name": "Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3624,7 +3624,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Medical 11",
+                "name": "Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3640,7 +3640,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Medical 12",
+                "name": "Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3656,7 +3656,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fluid / Medical 13",
+                "name": "Fluid / Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3672,7 +3672,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fluid / Medical 14",
+                "name": "Fluid / Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3688,7 +3688,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Medical 16",
+                "name": "Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3704,7 +3704,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fluid / Medical 18",
+                "name": "Fluid / Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3720,7 +3720,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fluid / Medical 19",
+                "name": "Fluid / Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3736,7 +3736,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fluid / Medical 21",
+                "name": "Fluid / Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3752,7 +3752,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fluid / Medical 22",
+                "name": "Fluid / Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3768,7 +3768,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fluid / Medical 23",
+                "name": "Fluid / Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3784,7 +3784,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fluid / Medical 24",
+                "name": "Fluid / Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
@@ -3800,7 +3800,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Fluid / Medical 25",
+                "name": "Fluid / Medical",
                 "desc": "",
                 "type": "Aid Station",
                 "sym": "Aid Station"
