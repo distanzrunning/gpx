@@ -3271,6 +3271,262 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Refreshments & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.32251,
+                    52.51456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Food & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36055,
+                    52.52314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Refreshments & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38591,
+                    52.5236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Food & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40872,
+                    52.52885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Refreshments & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42571,
+                    52.51526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Food & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42119,
+                    52.50977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Refreshments & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.41936,
+                    52.49693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Food & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42242,
+                    52.48698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maurten Sports Gels",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38095,
+                    52.49302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Refreshments & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36094,
+                    52.49316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Food & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3497,
+                    52.48956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Refreshments & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33171,
+                    52.46952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Refreshments & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30096,
+                    52.46855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Food & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28559,
+                    52.47346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Refreshments & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.30629,
+                    52.4882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Refreshments & First Aid",
+                "desc": "",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36395,
+                    52.50109
+                ]
+            }
         }
     ]
 }
