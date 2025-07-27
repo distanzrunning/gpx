@@ -3496,38 +3496,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Mile 1",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -74.04242,
-                    40.60728
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 2",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -74.02627,
-                    40.61522
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Fluid / Medical",
                 "desc": "",
                 "type": "Aid Station",
@@ -3538,22 +3506,6 @@
                 "coordinates": [
                     -74.02701,
                     40.62608
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "5k",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -74.02652,
-                    40.62731
                 ]
             }
         },
@@ -3592,22 +3544,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Mile 5",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -74.00843,
-                    40.65054
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Fluid / Medical 6",
                 "desc": "",
                 "type": "Aid Station",
@@ -3618,54 +3554,6 @@
                 "coordinates": [
                     -73.99779,
                     40.66078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 6",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.99617,
-                    40.66233
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "10k",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.99393,
-                    40.66448
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 7",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.98572,
-                    40.67406
                 ]
             }
         },
@@ -3704,38 +3592,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Mile 8",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.97901,
-                    40.68669
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 9",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.96013,
-                    40.68895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Medical 9",
                 "desc": "",
                 "type": "Aid Station",
@@ -3762,38 +3618,6 @@
                 "coordinates": [
                     -73.9571,
                     40.69936
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 10",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.95723,
-                    40.7
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 11",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.96256,
-                    40.71252
                 ]
             }
         },
@@ -3832,22 +3656,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Mile 12",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.95092,
-                    40.72378
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Fluid / Medical 13",
                 "desc": "",
                 "type": "Aid Station",
@@ -3858,38 +3666,6 @@
                 "coordinates": [
                     -73.95233,
                     40.73398
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 13",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.95293,
-                    40.7368
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 13.1 - Halfway",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.95313,
-                    40.73822
                 ]
             }
         },
@@ -3912,54 +3688,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Mile 14",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.95131,
-                    40.74881
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 15",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.9435,
-                    40.75189
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 16",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.96284,
-                    40.76032
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Medical 16",
                 "desc": "",
                 "type": "Aid Station",
@@ -3970,22 +3698,6 @@
                 "coordinates": [
                     -73.96193,
                     40.75973
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 17",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.95364,
-                    40.77103
                 ]
             }
         },
@@ -4008,38 +3720,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Mile 18",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.94423,
-                    40.78393
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 19",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.93487,
-                    40.79674
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Fluid / Medical 19",
                 "desc": "",
                 "type": "Aid Station",
@@ -4050,22 +3730,6 @@
                 "coordinates": [
                     -73.93469,
                     40.79699
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 20",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.92518,
-                    40.80757
                 ]
             }
         },
@@ -4088,22 +3752,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Mile 22",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.94525324474976,
-                    40.80503513287535
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Fluid / Medical 22",
                 "desc": "",
                 "type": "Aid Station",
@@ -4114,22 +3762,6 @@
                 "coordinates": [
                     -73.94674,
                     40.80028
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 23",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.95251689433907,
-                    40.7923517454735
                 ]
             }
         },
@@ -4152,22 +3784,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Mile 24",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.96310368511111,
-                    40.78150280680741
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Fluid / Medical 24",
                 "desc": "",
                 "type": "Aid Station",
@@ -4184,22 +3800,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Mile 25",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.97069128941237,
-                    40.770977804705396
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Fluid / Medical 25",
                 "desc": "",
                 "type": "Aid Station",
@@ -4210,22 +3810,6 @@
                 "coordinates": [
                     -73.97278,
                     40.76917
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mile 26",
-                "desc": "",
-                "type": "Distance Marker",
-                "sym": "Distance Marker"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.9797860693922,
-                    40.76952538290065
                 ]
             }
         }
