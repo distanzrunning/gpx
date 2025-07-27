@@ -648,7 +648,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 5.2km",
+                "name": "Refreshments & First Aid",
                 "distance": 5.2,
                 "services": "Refreshments & First Aid",
                 "type": "aid_station"
@@ -661,7 +661,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 9.2km",
+                "name": "Food & First Aid",
                 "distance": 9.2,
                 "services": "Food & First Aid",
                 "type": "aid_station"
@@ -674,7 +674,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 11.8km",
+                "name": "Refreshments & First Aid",
                 "distance": 11.8,
                 "services": "Refreshments & First Aid",
                 "type": "aid_station"
@@ -687,7 +687,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 14.8km",
+                "name": "Food & First Aid",
                 "distance": 14.8,
                 "services": "Food & First Aid",
                 "type": "aid_station"
@@ -700,7 +700,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 17.7km",
+                "name": "Refreshments & First Aid",
                 "distance": 17.7,
                 "services": "Refreshments & First Aid",
                 "type": "aid_station"
@@ -713,7 +713,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 20.8km",
+                "name": "Food & First Aid",
                 "distance": 20.8,
                 "services": "Food & First Aid",
                 "type": "aid_station"
@@ -726,7 +726,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 22.7km",
+                "name": "Refreshments & First Aid",
                 "distance": 22.7,
                 "services": "Refreshments & First Aid",
                 "type": "aid_station"
@@ -739,7 +739,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 24.8km",
+                "name": "Food & First Aid",
                 "distance": 24.8,
                 "services": "Food & First Aid",
                 "type": "aid_station"
@@ -752,7 +752,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 27.3km",
+                "name": "Maurten Sports Gels",
                 "distance": 27.3,
                 "services": "Maurten Sports Gels",
                 "type": "aid_station"
@@ -765,7 +765,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 28.2km",
+                "name": "Refreshments & First Aid",
                 "distance": 28.2,
                 "services": "Refreshments & First Aid",
                 "type": "aid_station"
@@ -778,7 +778,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 30.2km",
+                "name": "Food & First Aid",
                 "distance": 30.2,
                 "services": "Food & First Aid",
                 "type": "aid_station"
@@ -791,7 +791,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 32.3km",
+                "name": "Refreshments & First Aid",
                 "distance": 32.3,
                 "services": "Refreshments & First Aid",
                 "type": "aid_station"
@@ -804,7 +804,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 34.3km",
+                "name": "Refreshments & First Aid",
                 "distance": 34.3,
                 "services": "Refreshments & First Aid",
                 "type": "aid_station"
@@ -817,7 +817,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 35.8km",
+                "name": "Food & First Aid",
                 "distance": 35.8,
                 "services": "Food & First Aid",
                 "type": "aid_station"
@@ -830,7 +830,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 37.9km",
+                "name": "Refreshments & First Aid",
                 "distance": 37.9,
                 "services": "Refreshments & First Aid",
                 "type": "aid_station"
@@ -843,7 +843,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Aid Station 40.2km",
+                "name": "Refreshments & First Aid",
                 "distance": 40.2,
                 "services": "Refreshments & First Aid",
                 "type": "aid_station"
