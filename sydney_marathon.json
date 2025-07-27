@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sydney Marathon 2024",
+                "name": "TCS Sydney Marathon 2024",
                 "type": "running",
                 "links": [
                     {
@@ -4155,6 +4155,134 @@
                         -33.85828,
                         10.09
                     ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "5km Aid Station",
+                "desc": "Water, Electrolytes",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.20280000000002,
+                    -33.86786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "10km Aid Station",
+                "desc": "Water, Electrolytes",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.19392000000002,
+                    -33.86985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "15km Aid Station",
+                "desc": "Water, Electrolytes",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.20257,
+                    -33.85864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "20km Aid Station",
+                "desc": "Water, Electrolytes, GU Energy Gels",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.20915000000002,
+                    -33.86148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "25km Aid Station",
+                "desc": "Water, Electrolytes",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.21677000000003,
+                    -33.88042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "30km Aid Station",
+                "desc": "Water, Electrolytes, GU Energy Gels",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.22329000000002,
+                    -33.909000000000006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "35km Aid Station",
+                "desc": "Water, Electrolytes",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.23100000000002,
+                    -33.90373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "40km Aid Station",
+                "desc": "Water, Electrolytes",
+                "type": "Aid Station",
+                "sym": "Aid Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.22387,
+                    -33.895990000000005
                 ]
             }
         }
