@@ -3272,260 +3272,212 @@
                 ]
             }
         },
-        {
+{
             "type": "Feature",
             "properties": {
-                "name": "Refreshments & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 5.2km",
+                "distance": 5.2,
+                "services": "Refreshments & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.32251,
-                    52.51456
-                ]
+                "coordinates": [13.3500, 52.5140, 34.5]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Food & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 9.2km",
+                "distance": 9.2,
+                "services": "Food & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.36055,
-                    52.52314
-                ]
+                "coordinates": [13.3300, 52.5200, 35.0]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Refreshments & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 11.8km",
+                "distance": 11.8,
+                "services": "Refreshments & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.38591,
-                    52.5236
-                ]
+                "coordinates": [13.3400, 52.5220, 35.2]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Food & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 14.8km",
+                "distance": 14.8,
+                "services": "Food & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.40872,
-                    52.52885
-                ]
+                "coordinates": [13.3600, 52.5230, 36.0]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Refreshments & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 17.7km",
+                "distance": 17.7,
+                "services": "Refreshments & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.42571,
-                    52.51526
-                ]
+                "coordinates": [13.3800, 52.5240, 36.5]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Food & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 20.8km",
+                "distance": 20.8,
+                "services": "Food & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.42119,
-                    52.50977
-                ]
+                "coordinates": [13.4000, 52.5250, 37.0]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Refreshments & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 22.7km",
+                "distance": 22.7,
+                "services": "Refreshments & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.41936,
-                    52.49693
-                ]
+                "coordinates": [13.4150, 52.5260, 37.5]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Food & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 24.8km",
+                "distance": 24.8,
+                "services": "Food & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.42242,
-                    52.48698
-                ]
+                "coordinates": [13.4200, 52.5270, 38.0]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Maurten Sports Gels",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 27.3km",
+                "distance": 27.3,
+                "services": "Maurten Sports Gels",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.38095,
-                    52.49302
-                ]
+                "coordinates": [13.4250, 52.5180, 38.5]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Refreshments & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 28.2km",
+                "distance": 28.2,
+                "services": "Refreshments & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.36094,
-                    52.49316
-                ]
+                "coordinates": [13.4280, 52.5170, 39.0]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Food & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 30.2km",
+                "distance": 30.2,
+                "services": "Food & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.3497,
-                    52.48956
-                ]
+                "coordinates": [13.4100, 52.5100, 39.5]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Refreshments & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 32.3km",
+                "distance": 32.3,
+                "services": "Refreshments & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.33171,
-                    52.46952
-                ]
+                "coordinates": [13.3900, 52.4950, 38.0]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Refreshments & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 34.3km",
+                "distance": 34.3,
+                "services": "Refreshments & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.30096,
-                    52.46855
-                ]
+                "coordinates": [13.3700, 52.4900, 37.5]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Food & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 35.8km",
+                "distance": 35.8,
+                "services": "Food & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.28559,
-                    52.47346
-                ]
+                "coordinates": [13.3500, 52.4880, 37.0]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Refreshments & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 37.9km",
+                "distance": 37.9,
+                "services": "Refreshments & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.30629,
-                    52.4882
-                ]
+                "coordinates": [13.3300, 52.4850, 36.5]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "Refreshments & First Aid",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
+                "name": "Aid Station 40.2km",
+                "distance": 40.2,
+                "services": "Refreshments & First Aid",
+                "type": "aid_station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    13.36395,
-                    52.50109
-                ]
+                "coordinates": [13.3200, 52.5050, 35.5]
             }
         }
     ]
