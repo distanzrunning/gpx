@@ -3528,22 +3528,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Medical",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -74.00887,
-                    40.65012
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Fluid / Medical",
                 "desc": "",
                 "type": "Aid Station",
@@ -3554,102 +3538,6 @@
                 "coordinates": [
                     -73.99779,
                     40.66078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Medical",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.98478,
-                    40.6752
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Medical",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.97946,
-                    40.68283
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Medical",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.95997,
-                    40.68897
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Medical",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.9571,
-                    40.69936
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Medical",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.96238,
-                    40.71279
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Medical",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.95301,
-                    40.72222
                 ]
             }
         },
@@ -3682,22 +3570,6 @@
                 "coordinates": [
                     -73.95285,
                     40.7465
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Medical",
-                "desc": "",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.96193,
-                    40.75973
                 ]
             }
         },
