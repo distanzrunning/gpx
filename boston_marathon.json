@@ -710,317 +710,200 @@
                 ]
             }
         },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 02",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.50693, 42.23605]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 03",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.49376, 42.23767]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 04",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.48108, 42.24365]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 05",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.47252, 42.25048]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 06",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.46270, 42.25643]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 07",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.45367, 42.25887]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 08",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.44562, 42.26744]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 09",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.43975, 42.27321]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 10",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.42755, 42.27295]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 11",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.41810, 42.27636]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 12",
-                "desc": "Poland Spring Water, Gatorade, Maurten Energy Gel",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.40305, 42.27976]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 13",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.38789, 42.28210]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 14",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.36821, 42.28378]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 15",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.35251, 42.28311]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 16",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.33462, 42.28723]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 17",
-                "desc": "Poland Spring Water, Gatorade, Maurten Energy Gel",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.31832, 42.2946]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 18",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.29896, 42.29594]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 19",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.28055, 42.30689]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 20",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.2737, 42.31318]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 21",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.26674, 42.31793]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 22",
-                "desc": "Poland Spring Water, Gatorade, Maurten Energy Gel",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.25999, 42.32516]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 23",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.24802, 42.33063]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 24",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.2307, 42.33925]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Aid Station 25",
-                "desc": "Poland Spring Water, Gatorade",
-                "type": "Aid Station",
-                "sym": "Aid Station"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-71.21714, 42.33704]
-            }
-        }
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 02",
+      "desc": "Poland Spring Water, Gatorade",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.50175, 42.23651] // Mile 2
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 03",
+      "desc": "Poland Spring Water, Gatorade",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.48302, 42.24275] // Mile 4
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 04",
+      "desc": "Poland Spring Water, Gatorade",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.46740, 42.25531] // Mile 6
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 05",
+      "desc": "Poland Spring Water, Gatorade",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.45156, 42.26000] // Mile 8
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 06",
+      "desc": "Poland Spring Water, Gatorade",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.43835, 42.27399] // Mile 10
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 06B",
+      "desc": "Poland Spring Water, Gatorade, Maurten Energy Gel",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.43309, 42.27354] // Mile 11.8 (Special Maurten station)
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 07",
+      "desc": "Poland Spring Water, Gatorade, Maurten Energy Gel",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.41810, 42.27636] // Mile 12
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 08",
+      "desc": "Poland Spring Water, Gatorade",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.39971, 42.28053] // Mile 14
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 09",
+      "desc": "Poland Spring Water, Gatorade",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.38183, 42.28245] // Mile 16
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 10",
+      "desc": "Poland Spring Water, Gatorade, Maurten Energy Gel",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.35251, 42.28311] // Mile 17 (Special Maurten station)
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 11",
+      "desc": "Poland Spring Water, Gatorade",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.33462, 42.28723] // Mile 18
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 12",
+      "desc": "Poland Spring Water, Gatorade",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.31832, 42.29460] // Mile 20
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 12B",
+      "desc": "Poland Spring Water, Gatorade, Maurten Energy Gel",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.30558, 42.29622] // Mile 21.5 (Special Maurten station)
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 13",
+      "desc": "Poland Spring Water, Gatorade",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.28055, 42.30689] // Mile 22
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Aid Station 14",
+      "desc": "Poland Spring Water, Gatorade",
+      "type": "Aid Station",
+      "sym": "Aid Station"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.26674, 42.31793] // Mile 24
+    }
+  }
     ]
 }
